@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/search/search.scss"],"names":[],"mappings":"AAAA,OACI,YAAa,CACb,SAAU,CACV,gBAAiB","file":"main.5b9cc2b2.chunk.css","sourcesContent":[".paper{\n    padding: 2rem;\n    width: 50%;\n    margin: 5rem auto;\n}"]}

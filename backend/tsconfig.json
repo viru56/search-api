@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "pretty": true,
+        "sourceMap": true,
+        "target": "es6",
+        "outDir": "./build",
+        "baseUrl": "./server"
+    },
+    "include": [
+        "server/**/*.ts",
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
